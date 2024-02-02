@@ -1,0 +1,10 @@
+.nav{
+	background-color: white;
+	display: flex;
+	margin: auto;
+}
+.nav_btn{
+	background-color: red;
+	padding: 1%;
+	
+}

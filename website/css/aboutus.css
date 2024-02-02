@@ -1,0 +1,17 @@
+.bkpicture{
+	background-image: url('../source/2.jpg');
+	width: 100%;
+	height: 100%;
+	
+}
+.bt{
+	  border: none;
+	  color: red;
+	  padding: 15px 32px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 4px 2px;
+	  
+}
